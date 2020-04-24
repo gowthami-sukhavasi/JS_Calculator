@@ -1,0 +1,27 @@
+.t1{
+    border: 1px solid black;
+    padding: 50px;
+    margin: 50px;
+    background-color: #B39BC8;
+}
+.td{
+    background-color: #A1C3D1;
+    border: 1px solid black;
+}
+.btn{
+    border: 1px solid #A1C3D1;
+    height: 30px;
+    width: 50px;
+    background-color: #A1C3D1;
+    font-size: medium;
+    font-family: Verdana;
+}
+.h3{
+    font-size: larger;
+    font-family: Verdana;
+}
+#inputbox{
+   font-family: Verdana;
+   font-size: medium;
+   height: 40px;
+}
